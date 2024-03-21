@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">End Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_more">More</string>
+    <string name="google_maps_key">AIzaSyAFkxuejr7ncY-xbRxUS1xrTbGx0UYScpw</string>
+</resources>

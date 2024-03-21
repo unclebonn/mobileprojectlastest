@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "172722232975",
+    "project_id": "login-register-firebase-4f8ee",
+    "storage_bucket": "login-register-firebase-4f8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172722232975:android:4050b3c708bf09473ddafa",
+        "android_client_info": {
+          "package_name": "com.example.codeseasy.com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtT9KjSy4dfGlJYoujdtaqgFOVtBc62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172722232975:android:3c2ecf2f25d6266d3ddafa",
+        "android_client_info": {
+          "package_name": "com.devshiv.paypaltestjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtT9KjSy4dfGlJYoujdtaqgFOVtBc62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172722232975:android:0d26ced5ac2b595e3ddafa",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtT9KjSy4dfGlJYoujdtaqgFOVtBc62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172722232975:android:9eb7c70979396a2c3ddafa",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtT9KjSy4dfGlJYoujdtaqgFOVtBc62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
